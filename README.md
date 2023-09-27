@@ -34,6 +34,26 @@ https://youtu.be/QdITQ4upjME?si=ozbSQyuJ_E-sr4pN
 
 https://youtu.be/zdA3qZNH1vc?si=77SrQXZqxSNSQ06x
 
-scrolling feature gif:
+https://youtu.be/2Vk_Qdep2ZI?si=r3U95pEw86efljNW
+
+https://youtu.be/xbH8SWgz0ZM?si=4OE9cE8tpZHJbt1o
+
+https://youtu.be/QdITQ4upjME?si=KI4CQ-d0p9JnoDk0
+
+https://youtu.be/Weh_M1WMznU?si=FM9YptTXgcOnkG6W
+
+https://youtu.be/5WoQm7tR6EA?si=fWVT-LOUjO2kMcD-
+
+scrolling feature gif and gifs info:
 
 https://youtu.be/DyYCCyTs5Bo?si=D5D-2KGVPj6UG8Vs
+
+https://youtu.be/QdnZSrSIJP8?si=Y86tNAVh0xV9e9PZ
+
+https://youtu.be/kkIUBiiwpJ0?si=0bKHNSjkTWJsOV8q
+
+https://youtu.be/kkIUBiiwpJ0?si=0bKHNSjkTWJsOV8q
+
+spotify info: 
+
+https://youtu.be/FDFoXkLMB_g?si=eC7dP4lY9x130zF8
