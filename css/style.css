@@ -168,7 +168,7 @@ h3{
 
 .RalphLauren{
 
-    float: left;
+    float: center;
     width: 30%;
     padding: 10px;
 }
@@ -178,9 +178,8 @@ h3{
 
 .activity2 {
   
- 
+  content:"";
   display: inline-block;
-  
   
 
 }
@@ -192,7 +191,7 @@ h3{
 
 
 
-.foot{
+#foot{
    margin: 150px;
     color: white;
     padding-top: 98px;
