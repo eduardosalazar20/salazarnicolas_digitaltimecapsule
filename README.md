@@ -23,3 +23,17 @@ Fonts that were used of this technical process were Nunito San Serif and Oribtri
 Grid info:
 
 https://www.youtube.com/watch?v=VXW1r09Y6Tw&t=1545s
+
+Resources to help build my website:
+
+https://www.youtube.com/watch?v=8YJTOse5nCc
+
+https://youtu.be/4j0fQ_s00iA?si=GUbOOX421JjQ5vBz
+
+https://youtu.be/QdITQ4upjME?si=ozbSQyuJ_E-sr4pN
+
+https://youtu.be/zdA3qZNH1vc?si=77SrQXZqxSNSQ06x
+
+scrolling feature gif:
+
+https://youtu.be/DyYCCyTs5Bo?si=D5D-2KGVPj6UG8Vs
