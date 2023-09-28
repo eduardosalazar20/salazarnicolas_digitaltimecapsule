@@ -57,3 +57,6 @@ https://youtu.be/kkIUBiiwpJ0?si=0bKHNSjkTWJsOV8q
 spotify info: 
 
 https://youtu.be/FDFoXkLMB_g?si=eC7dP4lY9x130zF8
+
+google fonts:
+
